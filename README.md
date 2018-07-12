@@ -1,10 +1,11 @@
 # TimeSeries Forecasting Tutorial 
 
-
 ## How to Install
 Inline `code` has `back-ticks around` it.
 Use 
-``` pip install mypy```
+
+``` pip install mypy
+```
 
 
 
