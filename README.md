@@ -1,13 +1,12 @@
 # TimeSeries Forecasting Tutorial 
 
-## How to Install
-Inline `code` has `back-ticks around` it.
+## Packages needed 
+The `quandl` package is needed to download financial time-series data. 
 Use 
-
 ```python 
-pip install mypy
+pip install quandl
 ```
-
+or checkout Quandl's [GitHub page](https://github.com/quandl/quandl-python) for more info. 
 
 
 Colons can be used to align columns.
