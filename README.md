@@ -4,7 +4,8 @@
 Inline `code` has `back-ticks around` it.
 Use 
 
-``` pip install mypy
+```python 
+pip install mypy
 ```
 
 
