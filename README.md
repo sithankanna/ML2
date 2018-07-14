@@ -8,6 +8,8 @@ pip install quandl
 ```
 or checkout Quandl's [GitHub page](https://github.com/quandl/quandl-python) for more info. 
 
+### Important Idea
+https://www.linkedin.com/pulse/traditional-statistical-methods-often-out-perform-machine-paul-cuckoo/
 
 Colons can be used to align columns.
 
