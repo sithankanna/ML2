@@ -60,5 +60,5 @@ or checkout Quandl's [GitHub page](https://github.com/quandl/quandl-python) for 
 
 
 ## Useful References
-[Best Tutorial Out There](https://www.google.com)
-[HTML from LaTex] (https://www.codecogs.com/latex/eqneditor.php)
+* [Best Tutorial Out There](https://www.google.com)
+* [HTML from LaTex](https://www.codecogs.com/latex/eqneditor.php)
