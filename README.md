@@ -54,8 +54,11 @@ pip install quandl
 ```
 or checkout Quandl's [GitHub page](https://github.com/quandl/quandl-python) for more info.
 
+### Using Math
+<a href="https://www.codecogs.com/eqnedit.php?latex=\sqrt{x}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sqrt{x}" title="\sqrt{x}" /></a>
 
 
 
 ## Useful References
 [Best Tutorial Out There](https://www.google.com)
+[HTML from LaTex] (https://www.codecogs.com/latex/eqneditor.php)
