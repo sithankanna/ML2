@@ -5,6 +5,10 @@
 
 # Outline
 
+### Test
+:math:`p \times q`
+
+
 ## Exploratory Time Series Analysis
 
 Actions include:
